@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.splitCwd": "initial",
+    "terminal.integrated.detectLocale": "on"
+}
